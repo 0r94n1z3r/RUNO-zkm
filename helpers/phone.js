@@ -1,0 +1,1 @@
+export const GLOBAL_PhoneMask = {mask: ['+7 (###) ###-##-##']}

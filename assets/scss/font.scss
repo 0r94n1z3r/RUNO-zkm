@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+.font-18     {@include font-18;}
+.font-16     {@include font-16;}
+.font-14     {@include font-14;}
+.font-12     {@include font-12;}
+.font-h1, h1 {@include font-h1;}
+.font-h2, h2 {@include font-h2;}
+.font-h3, h3 {@include font-h3;}
+.font-h4, h4 {@include font-h4;}
+.font-h5, h5 {@include font-h5;}
+.font-h6, h6 {@include font-h6;}
+.font-h7, h7 {@include font-h7;}
+.font-h8, h8 {@include font-h8;}
+
+.font{
+    &--m{font-weight: 500;}
+}
